@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  [![RA4Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=RA4Z)](https://github.com/RA4Z/github-readme-stats)
+  [![RA4Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=RA4Z&show_icons=true&theme=dark)](https://github.com/RA4Z/github-readme-stats)
 <!--
 **RA4Z/RA4Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
