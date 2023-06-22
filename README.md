@@ -2,7 +2,7 @@
 
   [![RA4Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=RA4Z&show_icons=true&theme=dark)](https://github.com/RA4Z)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RA4Z&show_icons=true&theme=dark)](https://github.com/RA4Z)
-
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 <!--
 **RA4Z/RA4Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
