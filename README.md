@@ -2,14 +2,7 @@
 
   [![RA4Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=RA4Z&show_icons=true&theme=dark)](https://github.com/RA4Z)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RA4Z&show_icons=true&theme=dark)](https://github.com/RA4Z)
-  
-- uses: Platane/snk@v2
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
 <!--
 **RA4Z/RA4Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
