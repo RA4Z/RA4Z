@@ -2,6 +2,11 @@
 
   [![RA4Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=RA4Z&show_icons=true&theme=dark)](https://github.com/RA4Z)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RA4Z&show_icons=true&theme=dark)](https://github.com/RA4Z)
+
+
+  - name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.2.1
+
 <!--
 **RA4Z/RA4Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
