@@ -1,6 +1,6 @@
 ## Hello, world! 👋 I'm Robert Aron Zimmermann 👨‍💻
 
-At {{ (new Date()).getFullYear() - new Date('2003-07-31').getFullYear() }}, I'm already diving headfirst into the world of software development 🌎. Currently, I'm navigating the challenges of ***PPC*** at ***WEG Energy*** ⚡️, working as a true code sailor ⚓️, both in requirements analysis and fullstack development.
+At 21, I'm already diving headfirst into the world of software development 🌎. Currently, I'm navigating the challenges of ***PPC*** at ***WEG Energy*** ⚡️, working as a true code sailor ⚓️, both in requirements analysis and fullstack development.
 
 ### My toolbox is packed with powerful languages 💪:
 
